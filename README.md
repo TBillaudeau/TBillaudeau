@@ -17,8 +17,6 @@
 ![C](https://img.shields.io/badge/-C-7700c6?style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-JAVA-eb391a?style=for-the-badge&logo=java&logoColor=black)
-![perl](https://img.shields.io/badge/-perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 <br></br>
 
 ### 📈 My GitHub Stats:
