@@ -1,20 +1,29 @@
-<img width=100% src="https://github.com/TBillaudeau/TBillaudeau/blob/master/banner.gif" />
-                       
+<img width=100% src="https://github.com/TBillaudeau/TBillaudeau/blob/master/banner.gif"/>
+
+---
+
+### Hi 👋
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/TBillaudeau)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tbillaudeau)
-[![instagram](https://img.shields.io/badge/-INSTAGRAM-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tbillaudeau)
-[![twitter](https://img.shields.io/badge/-TWITTER-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/tbillaudeau)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-billaudeau)
 [![e‑mail](https://img.shields.io/badge/-e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white)](mailto:thomas.billaudeau@efrei.net)
+[![twitter](https://img.shields.io/badge/-TWITTER-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/tbillaudeau)
 [![tbillaudeau](https://img.shields.io/badge/-TBILLAUDEAU.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.tbillaudeau.com/)
 </br></br>
 
 ### 📚 My Skills
-![HTML](https://img.shields.io/badge/-HTML-E15622?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1B7FDE?style=for-the-badge&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
-![php](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-E7BA15?style=for-the-badge&logo=Python&logoColor=black)
-![C](https://img.shields.io/badge/-C-7700c6?style=for-the-badge&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-JAVA-eb391a?style=for-the-badge&logo=java&logoColor=black)
-<br></br>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+</br></br>
+
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mak&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+</br></br>
+
+---
+[![](https://visitcount.itsvg.in/api?id=mak&icon=5&color=12)](https://visitcount.itsvg.in)
